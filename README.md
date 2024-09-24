@@ -29,6 +29,6 @@ The **User List App** is a Flutter application that fetches and displays a list 
 
 ## Screenshots
 - **User List Screen**:
-  ![image alt](https://github.com/Ankit342/user_list_app/tree/efd3c4d62c9e43c2de5b4978ec967b86a7a32e91/screenshots/userlist.png?raw=true)
+  ![image alt](https://github.com/Ankit342/user_list_app/blob/efd3c4d62c9e43c2de5b4978ec967b86a7a32e91/screenshots/userlist.png)
 - **User Detail Screen**:
 - **Search Functionality**:
