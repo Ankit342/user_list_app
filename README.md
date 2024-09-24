@@ -1,16 +1,19 @@
-# user_list_app
+# User List App
 
-A new Flutter project.
+## Project Description
+The **User List App** is a Flutter application that fetches and displays a list of users from a public API. Users can search for specific names and view detailed information by tapping on any user in the list. This app demonstrates basic Flutter concepts, state management using Provider, and API integration.
 
-## Getting Started
+## Features
+- Display a list of users with their names and email addresses.
+- Search functionality to filter users by name.
+- Detailed view for each user showing additional information.
+- Pull-to-refresh functionality to update the user list.
+- Error handling for failed API requests.
 
-This project is a starting point for a Flutter application.
+## Instructions to Run the App
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the Repository**:
+   ```bash
+   git clone <your-repo-url>
+   cd user_list_app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
