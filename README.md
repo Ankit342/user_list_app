@@ -21,8 +21,13 @@ The **User List App** is a Flutter application that fetches and displays a list 
 3. **Run the App**: You can run the app using an emulator or physical device:
    flutter run
    
-Assumptions and Decisions
-The app assumes a stable internet connection is available for fetching user data from the API.
-Used the Provider package for state management to efficiently manage user data.
-Implemented a basic error handling mechanism to notify users of any issues while fetching data.
-The UI was designed keeping in mind material design principles to enhance user experience.
+## Assumptions and Decisions
+- The app assumes a stable internet connection is available for fetching user data from the API.
+- Used the Provider package for state management to efficiently manage user data.
+- Implemented a basic error handling mechanism to notify users of any issues while fetching data.
+- The UI was designed keeping in mind material design principles to enhance user experience.
+
+## Screenshots
+- **User List Screen**:
+- **User Detail Screen**:
+- **Search Functionality**:
