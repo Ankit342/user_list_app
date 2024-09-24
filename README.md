@@ -29,8 +29,8 @@ The **User List App** is a Flutter application that fetches and displays a list 
 
 ## Screenshots
 - **User List Screen**:
-<img src="screenshots/userlist.png" alt="User List Screenshot" width="150" height="300"/>
+   <img src="screenshots/userlist.png" alt="User List Screenshot" width="150" height="300"/>
 - **User Detail Screen**:
-<img src="screenshots/userdetails.png" alt="User Details Screenshot" width="150" height="300"/>
+   <img src="screenshots/userdetails.png" alt="User Details Screenshot" width="150" height="300"/>
 - **Search Functionality**:
-<img src="screenshots/search.png" alt="Search" width="150" height="300"/>
+   <img src="screenshots/search.png" alt="Search" width="150" height="300"/>
